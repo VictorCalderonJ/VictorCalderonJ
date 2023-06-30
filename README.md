@@ -7,5 +7,5 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 <div id="badge" align="center>
-<img src="https://komarev.com/ghpvc/?VictorCalderonJ=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=VictorCalderonJ&style=flat-square&color=blue" alt=""/>
 </div>
