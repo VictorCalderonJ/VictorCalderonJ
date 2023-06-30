@@ -19,7 +19,7 @@
 # Victor J Calderon
 ## Full-Stack Software Developer
 
-Highly experienced technology professional with a strong background in the Linux operating system. Proven ability to troubleshoot complex software issues and an excellent command over Back-end and Front-End languages. Holds an AA in Meteorology, a CompTIA Security Plus certification, and is currently attending Codeup.
+Trying to figure out what to put as my discription, please wait!
 
 
 ### :hammer_and_wrench: Languages and Tools :
